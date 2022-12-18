@@ -1,0 +1,23 @@
+[
+  {
+    "ID": "a3a5c12458774216b5bff70cd5bdae31",
+    "Brand": "BMW",
+    "Model": "Seria 3",
+    "HP": 150,
+    "Price": 2400
+  },
+  {
+    "ID": "58edbe001a744980b22747059e921ec4",
+    "Brand": "Renault",
+    "Model": "Megane",
+    "HP": 95,
+    "Price": 1300
+  },
+  {
+    "ID": "274b2c08a4a24a16a5a589d50b852876",
+    "Brand": "Seat",
+    "Model": "Leon",
+    "HP": 110,
+    "Price": 2000
+  }
+]

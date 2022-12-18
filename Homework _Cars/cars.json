@@ -1,0 +1,37 @@
+[
+  {
+    "ID": "",
+    "Brand": "BMW",
+    "Model": "Seria 3",
+    "HP": 150,
+    "Price": 2400
+  },
+  {
+    "ID": "",
+    "Brand": "Dacia",
+    "Model": "Logan",
+    "HP": 75,
+    "Price": 710
+  },
+  {
+    "ID": "",
+    "Brand": "Porsche",
+    "Model": "Panamera",
+    "HP": 400,
+    "Price": 10000
+  },
+  {
+    "ID": "",
+    "Brand": "Renault",
+    "Model": "Megane",
+    "HP": 95,
+    "Price": 1300
+  },
+  {
+    "ID": "",
+    "Brand": "Seat",
+    "Model": "Leon",
+    "HP": 110,
+    "Price": 2000
+  }
+]

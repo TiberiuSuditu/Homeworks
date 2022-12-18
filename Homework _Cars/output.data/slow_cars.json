@@ -1,0 +1,23 @@
+[
+  {
+    "ID": "38b5a99f42a4430ea540a88d815e6ccd",
+    "Brand": "Dacia",
+    "Model": "Logan",
+    "HP": 75,
+    "Price": 710
+  },
+  {
+    "ID": "58edbe001a744980b22747059e921ec4",
+    "Brand": "Renault",
+    "Model": "Megane",
+    "HP": 95,
+    "Price": 1300
+  },
+  {
+    "ID": "274b2c08a4a24a16a5a589d50b852876",
+    "Brand": "Seat",
+    "Model": "Leon",
+    "HP": 110,
+    "Price": 2000
+  }
+]
